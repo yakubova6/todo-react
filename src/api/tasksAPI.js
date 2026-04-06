@@ -1,4 +1,4 @@
-const URL = 'http://localhost:3001/tasks'
+const URL = 'https://todo-react-dp8j.onrender.com/tasks'
 
 const headers = {
     'Content-Type': 'application/json',
