@@ -1,5 +1,7 @@
 # Todo application built with React, Vite, Context API and Feature-Sliced Design.
 
+**Live Demo:** [https://yakubova6.github.io/todo-react/](https://yakubova6.github.io/todo-react/)
+
 A Todo application built with **React** and **Vite** following the **Feature-Sliced Design (FSD)** architecture.
 
 The project was created to practice React fundamentals, application architecture, state management, routing, custom hooks, and working with a REST API.
